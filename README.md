@@ -5,4 +5,7 @@ tuesday
 thursday
 friday
 saturdya
-sundau
+sunday
+jan
+feb
+march
