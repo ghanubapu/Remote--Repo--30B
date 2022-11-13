@@ -4,3 +4,5 @@ monday
 tuesday
 thursday
 friday
+saturdya
+sundau
